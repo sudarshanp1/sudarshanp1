@@ -4,7 +4,7 @@
 🔭 I’m currently working as a **Test Automation Engineer | Data Engineer**  
 🌱 I’m currently learning **Machine Learning, Gen AI, AWS**  
 🤝 I’m looking to collaborate on **AI Projects**  
-💬 Ask me about **Full Stack Development, DevOps, Cloud Computing**  
+💬 Ask me about **Telecom, Test Automation, DevOps**  
 📫 Connect with me on: [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sudarshan-p-3b160bba/))  
 
 ---
@@ -33,6 +33,3 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-## ☕ Support Me
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FE7A16?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
